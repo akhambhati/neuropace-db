@@ -2,7 +2,7 @@
 name = "neuropace-db"
 version = "0.1.0"
 description = "NeuroPace DB Python project"
-licence = "MIT"
+license = "MIT"
 readme = "README.md"
 homepage = "https://github.com/akhambhati/neuropace-db"
 repository = "https://github.com/akhambhati/neuropace-db"
