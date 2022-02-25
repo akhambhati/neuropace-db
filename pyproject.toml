@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "neuropace-db"
+version = "0.1.0"
+description = "NeuroPace DB Python project"
+licence = "MIT"
+readme = "README.md"
+homepage = "https://github.com/akhambhati/neuropace-db"
+repository = "https://github.com/akhambhati/neuropace-db"
+keywords = ["NeuroPace", "RNS"]
+authors = ["Ankit Khambhati <akhambhati@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
